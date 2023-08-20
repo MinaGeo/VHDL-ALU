@@ -1,0 +1,5 @@
+work	"ALU.vhd"
+work	"ALUOp_Multiplexer.vhd"
+work	"FullAdder.vhd"
+work	"Subtract_Multiplexer.vhd"
+work	"pkg_MajorTask_Phase1_Part2.vhd"

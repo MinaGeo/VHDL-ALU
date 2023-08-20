@@ -1,0 +1,29 @@
+Running: D:\14.7\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/test_ALU_isim_beh.exe -prj C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/test_ALU_beh.prj work.test_ALU 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/Subtract_Multiplexer.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/pkg_MajorTask_Phase1_Part2.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/FullAdder.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/ALUOp_Multiplexer.vhd" into library work
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/ALU.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/ALU.vhd" Line 43: Actual for formal port in1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/ALU.vhd" Line 47: Actual for formal port andin is neither a static name nor a globally static expression
+Parsing VHDL file "C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/test_ALU.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package pkg_majortask_phase1_part2
+Compiling architecture behavioral of entity Subtract_Multiplexer [subtract_multiplexer_default]
+Compiling architecture behavioral of entity FullAdder [fulladder_default]
+Compiling architecture behavioral of entity ALUOp_Multiplexer [aluop_multiplexer_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavior of entity test_alu
+Time Resolution for simulation is 1ps.
+Compiled 13 VHDL Units
+Built simulation executable C:/Users/HP/Desktop/mina/MajorTask_Phase1_Part2/test_ALU_isim_beh.exe
+Fuse Memory Usage: 37080 KB
+Fuse CPU Usage: 468 ms

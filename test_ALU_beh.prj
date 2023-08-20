@@ -1,0 +1,6 @@
+vhdl work "Subtract_Multiplexer.vhd"
+vhdl work "pkg_MajorTask_Phase1_Part2.vhd"
+vhdl work "FullAdder.vhd"
+vhdl work "ALUOp_Multiplexer.vhd"
+vhdl work "ALU.vhd"
+vhdl work "test_ALU.vhd"

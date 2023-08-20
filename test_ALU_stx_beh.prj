@@ -1,0 +1,6 @@
+vhdl isim_temp "Subtract_Multiplexer.vhd"
+vhdl isim_temp "pkg_MajorTask_Phase1_Part2.vhd"
+vhdl isim_temp "FullAdder.vhd"
+vhdl isim_temp "ALUOp_Multiplexer.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "test_ALU.vhd"

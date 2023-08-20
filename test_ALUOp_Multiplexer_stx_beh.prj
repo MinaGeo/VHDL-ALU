@@ -1,0 +1,2 @@
+vhdl isim_temp "ALUOp_Multiplexer.vhd"
+vhdl isim_temp "test_ALUOp_Multiplexer.vhd"
